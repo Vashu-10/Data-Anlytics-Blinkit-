@@ -54,6 +54,7 @@ Outlet Type
 This makes the report fully interactive and dynamic.
 
 5. Visualizations Included
+   
 📊 1. Fat Content Analysis
 Donut chart showing Low Fat vs Regular sales contribution
 Fat distribution across outlet tiers
